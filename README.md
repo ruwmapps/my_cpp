@@ -1,5 +1,9 @@
-# Hello word
+# Портфолио
 
-I study
+I study netologia
+теперь я лучший разработчик для любой компании, по с++
 
-31.10.2022   ne ponimait kirilicu
+## хобби
+также я люблю писать стихи
+
+![push](https://user-images.githubusercontent.com/18044367/199126086-aa8cb3de-50bb-45b7-a198-a3bcc1144149.jpg)
